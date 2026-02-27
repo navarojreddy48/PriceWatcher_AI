@@ -110,6 +110,9 @@ npm run dev
 ### Login Page
 ![Login Page](screenshots/LoginPage.png)
 
+### Sign Up Page
+![Sign Up Page](screenshots/SignUp.png)
+
 ### Admin Dashboard
 ![Admin Dashboard](screenshots/AdminDashboard.png)
 
