@@ -1,0 +1,9 @@
+flask
+flask-cors
+mysql-connector-python
+pandas
+beautifulsoup4
+requests
+werkzeug
+flask-jwt-extended
+apscheduler
